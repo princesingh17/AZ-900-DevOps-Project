@@ -33,5 +33,17 @@ This project demonstrates how to provision a **Windows Server 2016 virtual machi
 - VM summary page
 - <img width="940" height="685" alt="image" src="https://github.com/user-attachments/assets/c5e31df8-fec7-4792-81b2-a2968846f8b8" />
 
+✅ Outcome
+Windows VM successfully provisioned and scaled in Azure.
 
+Cost-saving feature (auto-shutdown) applied.
+
+Setup simulates real-world VM provisioning for enterprise workloads.
+
+📚 What I Learned
+Basic Azure resource provisioning
+
+Managing VM sizes and cost optimization
+
+Azure VM auto-shutdown configuration
 
