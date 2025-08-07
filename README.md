@@ -22,16 +22,16 @@ This project demonstrates how to provision a **Windows Server 2016 virtual machi
 ## 📸 Screenshots
 
 - Resource group and VM overview
-- <img width="940" height="464" alt="image" src="./AZ-900-DevOps-Project/screenshots/Image1" />
+- <img width="940" height="464" alt="image" src="./screenshots/Image1" />
 
 - Scaling operation panel
-- <img width="940" height="467" alt="image" src="/AZ-900-DevOps-Project/screenshots/Image2" />
+- <img width="940" height="467" alt="image" src="./screenshots/Image2" />
 
 - Auto-shutdown configuration
-- <img width="940" height="488" alt="image" src="/AZ-900-DevOps-Project/screenshots/Image3" />
+- <img width="940" height="488" alt="image" src="./screenshots/Image3" />
 
 - VM summary page
-- <img width="940" height="685" alt="image" src="/AZ-900-DevOps-Project/screenshots/Image4" />
+- <img width="940" height="685" alt="image" src="./screenshots/Image4" />
 
 ✅ Outcome
 Windows VM successfully provisioned and scaled in Azure.
